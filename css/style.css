@@ -77,7 +77,7 @@ body {
 .porta {
   width: 100%;
   height: auto;
-  background-image: url("../source/background-ai.jpeg");
+  background-image: url("../source/banner.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -191,7 +191,7 @@ body {
 .card {
   width: 100%;
   height: auto;
-  background-image: url("../source/fnf-ai-final.png");
+  background-image: url("../source/background.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
